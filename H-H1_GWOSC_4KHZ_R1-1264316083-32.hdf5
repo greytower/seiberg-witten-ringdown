@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Gravitational Wave Open Science Center" />
+    <meta name="keywords" content="gravitational waves, open data" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>Error 404 (Not Found!)</title>
+    <link
+      rel="shortcut icon"
+      href="/static/images/icons/gwosc-fav.ico"
+    />
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Font Awesome -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/solid.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/fontawesome.min.js"></script>
+    <!-- Popperjs -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+      integrity="sha256-BRqBN7dYgABqtY9Hd4ynE+1slnEw+roEPFzQ7TRRfcg="
+      crossorigin="anonymous"
+    ></script>
+    <!-- Bootstrap 5 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Google Icons -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <!-- Gwosc style and scripts -->
+    <link rel="stylesheet" href="/static/css/gwosc.css" />
+    <script src="/static/js/gwosc.js"></script>
+
+    
+<style>
+  .four-oh-four {
+    margin-top: 10vh;
+  }
+  .four-oh-four .unavailable {
+    font-size: 2em;
+    line-height: 1.5em;
+    font-weight: 700;
+  }
+  .html-code {
+    line-height: 1em;
+    font-size: 3em;
+    font-weight: 900;
+  }
+</style>
+
+  </head>
+
+  <body>
+    <header class="primary-header">
+      <div class="brand-logo">
+        <a href="/">
+          <img src="/static/images/gwosc_logo.svg" alt="GWOSC logo" />
+        </a>
+      </div>
+      <nav class="primary-nav" role="navigation" id="top-menu">
+        <ul class="nav-list">
+          <li class="nav-list-item">
+            Get Data
+            <ul class="nav-sublist">
+              <li class="nav-sublist-item"><a href="/data/">Data Sets</a></li>
+              <li class="nav-sublist-item">
+                <a href="/eventapi/">Events and Catalogs</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/timeline/">Timelines</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-list-item">
+            Tutorials
+            <ul class="nav-sublist">
+              <li class="nav-sublist-item">
+                <a href="/path/">Learning Path</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/tutorials/">Tutorials</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/workshops/">Workshops</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-list-item">
+            Software
+            <ul class="nav-sublist">
+              <li class="nav-sublist-item">
+                <a href="/interactive/">Web Apps</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/gps/">GPS Time Converter</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/mysources/">Source Visibility Check</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/software/">Libraries</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/api/">API Documentation</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-list-item">
+            About
+            <ul class="nav-sublist">
+              <li class="nav-sublist-item">
+                <a href="/about/">About GWOSC</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/acknowledgement/">Acknowledge</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/contact/">Contact Us</a>
+              </li>
+              <li class="nav-sublist-item">
+                <a href="/projects/">Papers and Projects</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <button class="mobile-nav-toggle">
+        <img
+          class="hamburger-icon"
+          src="/static/images/hamburger_menu.svg"
+          alt=""
+        />
+      </button>
+    </header>
+
+    <main>
+      <nav class="contextual-menu">
+        
+      </nav>
+      
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-10 four-oh-four">
+      <p class="html-code accent-color">404</p>
+      <p class="unavailable primary-color">Sorry, that URL was not found.</p>
+      
+      <p class="message accent-color">Cannot open file H-H1_GWOSC_4KHZ_R1-1264316083-32.hdf5.</p>
+      
+    </div>
+  </div>
+</div>
+
+      <div id="toast-box"></div>
+    </main>
+
+    <footer>
+      <div class="footer-container container">
+        <div class="sponsor-list">
+          <div class="sponsor-row">
+            <div class="sponsor-icon-container sponsor-nsf">
+              <a href="https://www.nsf.gov/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/nsf_logo.png"
+                  alt="NSF logo"
+                />
+              </a>
+            </div>
+            <div class="sponsor-icon-container sponsor-infn">
+              <a href="https://home.infn.it/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/infn_logo.png"
+                  alt="INFN logo"
+                />
+              </a>
+            </div>
+            <div class="sponsor-icon-container sponsor-cnrs">
+              <a href="https://www.cnrs.fr/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/cnrs_logo.png"
+                  alt="CNRS logo"
+                />
+              </a>
+            </div>
+            <div class="sponsor-icon-container sponsor-ego">
+              <a href="https://www.ego-gw.it/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/ego_logo.png"
+                  alt="EGO logo"
+                />
+              </a>
+            </div>
+          </div>
+          <div class="sponsor-row">
+            <div class="sponsor-icon-container sponsor-lsc">
+              <a href="https://www.ligo.org/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/lsc_logo.png"
+                  alt="LSC logo"
+                />
+              </a>
+            </div>
+            <div class="sponsor-icon-container sponsor-ligo">
+              <a href="https://www.ligo.caltech.edu/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/ligo_logo.png"
+                  alt="LIGO logo"
+                />
+              </a>
+            </div>
+            <div class="sponsor-icon-container sponsor-virgo">
+              <a href="https://www.virgo-gw.eu/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/virgo_logo.png"
+                  alt="Virgo logo"
+                />
+              </a>
+            </div>
+            <div class="sponsor-icon-container sponsor-kagra">
+              <a href="https://gwcenter.icrr.u-tokyo.ac.jp/en/" target="_blank">
+                <img
+                  class="sponsor-icon"
+                  src="/static/images/footer_icons/monotone/kagra_logo.png"
+                  alt="Kagra logo"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>Other Related Sites</p>
+          <ul class="useful-sites">
+            <li>
+              <a class="accent-color" href="/detector_status/" target="_blank"
+                >Detector Status</a
+              >
+            </li>
+            <li>
+              <a
+                class="accent-color"
+                href="https://gracedb.ligo.org"
+                target="_blank"
+                >Low Latency Alerts</a
+              >
+            </li>
+            <li>
+              <a
+                class="accent-color"
+                href="https://zenodo.org/communities/ligo-virgo-kagra/"
+                target="_blank"
+                >Analysis Results on Zenodo.org</a
+              >
+            </li>
+            <li>
+              <a
+                class="accent-color"
+                href="https://ask.igwn.org/"
+                target="_blank"
+                >The gravitational wave community forum
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-acknowledge">
+          <a
+            class="accent-color"
+            rel="license"
+            href="https://creativecommons.org/licenses/by/4.0/"
+          >
+            <img
+              id="cc-logo"
+              alt="Creative Commons License"
+              src="/static/images/by.png"
+              width="100px"
+              ;
+            />
+          </a>
+          <p>
+            Data released under a
+            <a
+              class="accent-color"
+              href="https://creativecommons.org/licenses/by/4.0/"
+              >CC BY 4.0 License</a
+            >.
+          </p>
+          <p>
+            Please follow
+            <a class="accent-color" href="/acknowledgement/"
+              >acknowledgement guidelines</a
+            >.
+          </p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
